@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Chandru023
-- 👀 I’m Mechatronics engineer
-- 🌱 I’m currently 4th yearn ...
-- 💞️ I’m looking to job on ...
-- 📫 How to reach me chandro0ffical007@gmail.com...
-- 😄 bro tech 
-- ⚡ Fun
+👋 Hi, I’m @Chandru
 
-<!---
-Chandru023/Chandru023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Mechatronics Engineer passionate about automation, AI, and UI/UX design.
+
+🌱 Final-year student at Sri Krishna College of Engineering and Technology.
+
+💼 Seeking opportunities in software development, cloud computing, and embedded systems.
+
+📫 Contact me at: chandru20032510@gmail.com
+
+⚡ Tech Enthusiast & Innovator
+
+😄 Exploring new technologies and creative solutions.
